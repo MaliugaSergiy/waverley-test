@@ -1,0 +1,14 @@
+.HackerNews {
+}
+
+.HackerNews-list {
+  list-style-type: none;
+}
+
+.HackerNews-item {
+  border: 1px solid #000;
+  border-bottom: none;
+}
+.HackerNews-item:last-child {
+  border-bottom: 1px solid #000;
+}
